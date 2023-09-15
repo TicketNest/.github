@@ -1,5 +1,9 @@
 # TicketNest Repositories
 
+<img src="https://github.com/munyeol-Yoon/mini-BE/assets/50113066/149f7b9c-e83f-4919-859d-b6fbe3dd4821">
+
+<br/>
+
 Service : https://ticket-nest-fe.vercel.app/
 
 FE-Repository : https://github.com/TicketNest/TicketNest-FE
